@@ -23,7 +23,7 @@ Repository : https://github.com/HarpreetChahal/ASSIGNMENT-1-CS-733
 */
 
 ========================================================================================================
-FILES OF THE PROGRAM (INCLUDING HEADERS AND MAIN) : 
+FILES  : 
 
 HTML AND JS FILES
 
