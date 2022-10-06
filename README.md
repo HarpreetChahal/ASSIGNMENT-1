@@ -12,7 +12,7 @@ Date of creation : 05/10/2022
 GITHUB 
 
 @HarpreetChahal
-Repository : https://github.com/HarpreetChahal/ASSIGMNET-1-CS-733
+Repository : https://github.com/HarpreetChahal/ASSIGNMENT-1-CS-733
 
 =======================================================================================================
 
